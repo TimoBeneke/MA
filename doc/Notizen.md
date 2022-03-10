@@ -7,3 +7,4 @@ LFSR
 
 Beschäftigung mit Verschlüsselungen (Decoding, Encoding),
 MVP: Decoder, Encoder
+
