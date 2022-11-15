@@ -1,2 +1,0 @@
-# MVP
-Encoder, Decoder
